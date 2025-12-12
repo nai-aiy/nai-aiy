@@ -9,7 +9,7 @@ Estudante de [Técnico em Desenvolvimento de Sistemas] com foco em [Web/IoT/Mobi
 ## Minhas Habilidades em Aprendizado
 ![C](icone.svg)
 
-## Atualmente
+## O Que Fiz
 - Trabalhei em desenvolver um pequeno sistema baseado na Caixa de Skinner, usando Arduino Uno R3.
 
 ## Interesses
