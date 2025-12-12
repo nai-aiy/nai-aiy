@@ -1,7 +1,7 @@
-# Olá, eu sou a [Rhany Vitória]! 👋
+# Olá, eu sou a Rhany Vitória! 👋
 
 ## Sobre Mim
-Estudante de [Técnico em Desenvolvimento de Sistemas] com foco em [Web/IoT/Mobile].
+Estudante de Técnico em Desenvolvimento de Sistemas com foco em Web/IoT/Mobile.
 
 ## Minhas Habilidades em Aprendizado 
 - Linguagem C.
