@@ -5,6 +5,7 @@ Estudante de Técnico em Desenvolvimento de Sistemas com foco em Web/IoT/Mobile.
 
 ## Minhas Habilidades em Aprendizado 
 - Linguagem C.
+- fundamentos básicos em Eletrotêcnica.
 
 ## Projetos
 - Trabalhei em desenvolver um pequeno sistema baseado na Caixa de Skinner, usando Arduino Uno R3.
